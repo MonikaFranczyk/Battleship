@@ -1,12 +1,7 @@
 # Battleship
+Battleship is a strategy type guessing game for two players. It is played on ruled grids (paper or board) on which each player's fleet of warships are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
 
-Battleship is a strategy type guessing game for two players. 
-It is played on ruled grids (paper or board) on which each player's fleet of warships are marked. 
-The locations of the fleets are concealed from the other player. 
-Players alternate turns calling "shots" at the other player's ships, 
-and the objective of the game is to destroy the opposing player's fleet.
-
-## Types of games:
+### Types of games:
 1. Single Player: 
   - Computer randomly places 5 ships, player can try to guess 10 times
     
