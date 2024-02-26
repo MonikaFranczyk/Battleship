@@ -1,1 +1,29 @@
 # Battleship
+
+Types of games ->
+1. Single Player: 
+  - Computer randomly places 5 ships, player can try to guess 10 times
+    
+2. Advanced with computer
+  - player and computer place 5 single ships, both guess
+  - take turns guessing, whichever one sinks all five first wins
+    
+3. 5 ship types
+  - 5 different ship types - 2, 3, 3, 4, 5 and play with computer
+    
+4. Single player v2
+  - Rewrite Single Player to use Object oriented programming
+    
+5. Future algorithm considerations
+  - tell user when ship is sunk
+  - Computer Placement 
+    - Place ships in center and not edges,
+    - cluster some ships, possibly in bottom right corner
+  - Computer Guess 
+    - Picker center, then checkerboard guess strategy
+    - If hit, computer plays adjacent to ship
+
+Legend:
+  " " available to guess
+  X is hit ship
+  "-" is miss
