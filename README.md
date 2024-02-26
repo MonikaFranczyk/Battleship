@@ -1,7 +1,7 @@
 # Battleship
 🎮 Battleship is a strategy type guessing game for two players. It is played on ruled grids (paper or board) on which each player's fleet of warships are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
 
-### Types of games:
+# Types of games:
 1. Single Player: 
   - Computer randomly places 5 ships, player can try to guess 10 times
     
@@ -12,10 +12,7 @@
 3. 5 ship types
   - 5 different ship types - 2, 3, 3, 4, 5 and play with computer
     
-4. Single player v2
-  - Rewrite Single Player to use Object oriented programming
-    
-5. Future algorithm considerations
+4. Future algorithm considerations
   - tell user when ship is sunk
   - Computer Placement 
     - Place ships in center and not edges,
