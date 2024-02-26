@@ -1,6 +1,6 @@
 # Battleship
 
-## Types of games ->
+## Types of games:
 1. Single Player: 
   - Computer randomly places 5 ships, player can try to guess 10 times
     
